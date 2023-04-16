@@ -12,6 +12,8 @@
 		E45A817D29D8DC7C00E69508 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E45A817C29D8DC7C00E69508 /* Assets.xcassets */; };
 		E45A818029D8DC7C00E69508 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E45A817F29D8DC7C00E69508 /* Preview Assets.xcassets */; };
 		E45A818729D8DCBC00E69508 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E45A818629D8DCBC00E69508 /* .gitignore */; };
+		E45A818929D905CF00E69508 /* ToggleButtonExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45A818829D905CF00E69508 /* ToggleButtonExample.swift */; };
+		E45A818B29D9073700E69508 /* SegmentedControlExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45A818A29D9073700E69508 /* SegmentedControlExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		E45A817C29D8DC7C00E69508 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E45A817F29D8DC7C00E69508 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E45A818629D8DCBC00E69508 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		E45A818829D905CF00E69508 /* ToggleButtonExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleButtonExample.swift; sourceTree = "<group>"; };
+		E45A818A29D9073700E69508 /* SegmentedControlExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControlExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				E45A817C29D8DC7C00E69508 /* Assets.xcassets */,
 				E45A817E29D8DC7C00E69508 /* Preview Content */,
 				E45A818629D8DCBC00E69508 /* .gitignore */,
+				E45A818829D905CF00E69508 /* ToggleButtonExample.swift */,
+				E45A818A29D9073700E69508 /* SegmentedControlExample.swift */,
 			);
 			path = Chapter06;
 			sourceTree = "<group>";
@@ -142,6 +148,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E45A817B29D8DC7A00E69508 /* ContentView.swift in Sources */,
+				E45A818B29D9073700E69508 /* SegmentedControlExample.swift in Sources */,
+				E45A818929D905CF00E69508 /* ToggleButtonExample.swift in Sources */,
 				E45A817929D8DC7A00E69508 /* Chapter06App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
