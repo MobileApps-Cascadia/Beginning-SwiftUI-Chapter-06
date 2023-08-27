@@ -6,7 +6,6 @@
 //
 
 import Foundation
-
 import SwiftUI
 struct ToggleButtonExample: View {
     @State var colorMe = false

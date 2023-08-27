@@ -6,7 +6,6 @@
 //
 
 import Foundation
-
 import SwiftUI
 struct SegmentedControlExample: View {
     @State private var message = ""
