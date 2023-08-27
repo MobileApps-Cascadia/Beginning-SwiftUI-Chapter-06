@@ -18,8 +18,6 @@ struct ContentView: View {
                 print("Simple button clicked!")
             }
             
-            
-            
             Text("Click count: \(clickCount)")
             
             Text("Please rate your experience today")
@@ -103,20 +101,9 @@ struct ContentView: View {
     
         .padding()
     
-    
-    
-    
-    
-    
-    
     struct ContentView_Previews: PreviewProvider {
         static var previews: some View {
             ContentView()
-            
-            
-            
-            
-            
             
         }
     }
